@@ -1,0 +1,14 @@
+# secrets / local config
+.env
+.env.*
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# local helper files that are NOT part of the submission
+check_analytics.py
+sample_seed.py
+sample_data/
